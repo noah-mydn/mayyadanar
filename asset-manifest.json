@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mayyadanar/static/css/main.0ac09e75.css",
+    "main.js": "/mayyadanar/static/js/main.3f0fd103.js",
+    "index.html": "/mayyadanar/index.html",
+    "main.0ac09e75.css.map": "/mayyadanar/static/css/main.0ac09e75.css.map",
+    "main.3f0fd103.js.map": "/mayyadanar/static/js/main.3f0fd103.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ac09e75.css",
+    "static/js/main.3f0fd103.js"
+  ]
+}
