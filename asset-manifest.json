@@ -1,18 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.9c565c26.css",
-    "main.js": "./static/js/main.9c850e84.js",
-    "static/media/yadanar.png": "./static/media/yadanar.709e6950b5f21c953ae5.png",
-    "static/media/yadanar.jpeg": "./static/media/yadanar.3fe146ed6845db10bdef.jpeg",
-    "static/media/yadanar-logo-yellow.png": "./static/media/yadanar-logo-yellow.8a1234e82476a1279313.png",
-    "static/media/yadanar-logo-black.png": "./static/media/yadanar-logo-black.85d382ece08cad649d49.png",
+    "main.css": "./static/css/main.017ca5de.css",
+    "main.js": "./static/js/main.afba2659.js",
     "index.html": "./index.html",
-    "static/media/list.svg": "./static/media/list.aa695b2cfc51163b591b0a2597d77ff5.svg",
-    "main.9c565c26.css.map": "./static/css/main.9c565c26.css.map",
-    "main.9c850e84.js.map": "./static/js/main.9c850e84.js.map"
+    "main.017ca5de.css.map": "./static/css/main.017ca5de.css.map",
+    "main.afba2659.js.map": "./static/js/main.afba2659.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c565c26.css",
-    "static/js/main.9c850e84.js"
+    "static/css/main.017ca5de.css",
+    "static/js/main.afba2659.js"
   ]
 }
