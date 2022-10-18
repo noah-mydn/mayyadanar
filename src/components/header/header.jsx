@@ -50,9 +50,9 @@ export default function Navigation() {
                             Connect with me
                         </h4>
                         <div className='social-icons'>
-                            <a className='icons' href="https://www.linkedin.com/in/may-yadanar-noah-8a95131bb"><span>LinkedIn</span></a>
-                            <a className='icons' href="https://www.twitter.com/noah_mydn"><span>Twitter</span></a>
-                            <a className='icons' href="https://www.github.com/noah-mydn"><span>Github</span></a>
+                            <a className='icons' href="https://www.linkedin.com/in/may-yadanar-noah-8a95131bb" target='_blank'><span>LinkedIn</span></a>
+                            <a className='icons' href="https://www.twitter.com/noah_mydn" target='_blank'><span>Twitter</span></a>
+                            <a className='icons' href="https://github.com/noah-mydn" target='_blank'><span>Github</span></a>
                         </div>
                     </>}
                 </Offcanvas.Body>
