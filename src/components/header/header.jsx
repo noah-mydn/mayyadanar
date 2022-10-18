@@ -52,7 +52,7 @@ export default function Navigation() {
                         <div className='social-icons'>
                             <a className='icons' href="https://www.linkedin.com/in/may-yadanar-noah-8a95131bb"><span>LinkedIn</span></a>
                             <a className='icons' href="https://www.twitter.com/noah_mydn"><span>Twitter</span></a>
-                            <a className='icons' href="https://www.github.com/noah_mydn"><span>Github</span></a>
+                            <a className='icons' href="https://www.github.com/noah-mydn"><span>Github</span></a>
                         </div>
                     </>}
                 </Offcanvas.Body>
